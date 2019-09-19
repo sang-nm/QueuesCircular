@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\CircularQueues\CircularQueues\bin\Debug\CircularQueues.exe.config
+e:\documents\visual studio 2015\Projects\CircularQueues\CircularQueues\bin\Debug\CircularQueues.exe
+e:\documents\visual studio 2015\Projects\CircularQueues\CircularQueues\bin\Debug\CircularQueues.pdb
+e:\documents\visual studio 2015\Projects\CircularQueues\CircularQueues\obj\Debug\CircularQueues.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\CircularQueues\CircularQueues\obj\Debug\CircularQueues.exe
+e:\documents\visual studio 2015\Projects\CircularQueues\CircularQueues\obj\Debug\CircularQueues.pdb
